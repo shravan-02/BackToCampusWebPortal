@@ -29,8 +29,9 @@ export const FullContainer = styled.div`
     grid-template-areas: col1 col2;
     // border-style: solid;
     border-radius: 10px;
-    margin-top: 130px;
-    // margin-bottom: -40px;
+    margin-top: 100px;
+    padding-bottom: 50px;
+    margin-botton: 10px;
 
     @media screen and (max-width: 768px) {
         grid-template-columns: 1fr;
