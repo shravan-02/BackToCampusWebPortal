@@ -40,6 +40,7 @@ export const StyledInput = styled.input`
     width: auto;
     max-height: 50px;
     border: none;
+    transition: border 0.4s ease-in-out;
     font-family: 'Poppins', sans-serif;
     font-size: 12px;
     // border-bottom: 2px solid #7EE0FF;
