@@ -11,8 +11,8 @@ function App() {
     <div className="App">
       <ButtonAppBar />
       {/* <CenterBox></CenterBox> */}
-      <Form></Form>
-      <Form2></Form2>
+      {/* <Form></Form>
+      <Form2></Form2> */}
       <Verification></Verification>
     </div>
   );
