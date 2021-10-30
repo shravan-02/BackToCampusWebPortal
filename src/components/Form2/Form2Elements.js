@@ -50,7 +50,7 @@ export const StyledInput = styled.input`
 `
 
 export const StyledFormWrapper = styled.div`
-    display: flex;
+    display: grid;
     justify-content: left;
     align-items: center;
     height: 100%;
@@ -61,17 +61,29 @@ export const StyledFormWrapper = styled.div`
 `
 
 export const StyledForm = styled.form`
-    width: 100%;
-    max-width: 500px;
     padding: 70px;
     // box-sizing: border-box;
-    display: flex;
+    display: inline;
 
     flex-flow: wrap;
 
     
     
 `
+export const Guidelines = styled.div`
+    font-size: 15px;
+    max-width: 100%;
+    color: #fff;
+    text-align: centre;
+    position: absolute;
+    margin-top: -400px;
+
+`;
+export const InnerGuidelines = styled.ul`
+    padding-bottom: 20px;
+    
+`;
+
 
 export const Img = styled.img`
     max-width: 800px;

@@ -22,7 +22,11 @@ const ButtonStyle = withStyles({
 })(Button);
 
 function BlueBtn(props) {
-  return <ButtonStyle variant="contained">{props.txt}</ButtonStyle>;
+  return (
+    <ButtonStyle variant="contained" onClick={props.onClick}>
+      {props.txt}
+    </ButtonStyle>
+  );
 }
 
 export default BlueBtn;
