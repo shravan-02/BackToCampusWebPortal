@@ -2,7 +2,7 @@
 
 ### website link : [https://quizzical-hamilton-5e3d85.netlify.app/](https://quizzical-hamilton-5e3d85.netlify.app/)
 
-![Untitled](BackToCampus%20177b13eb045c4cd4819353b1eaffae27/Untitled.png)
+![Untitled](Untitled.png)
 
 *A web portal that enables smooth functioning of on-campus activities in the post pandemic world.*
 
